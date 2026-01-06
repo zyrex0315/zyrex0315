@@ -73,10 +73,7 @@
 ###
 
 <div align="center">
-  <!-- Replace the old URL with your new deployment URL -->
-<img src="github-readme-stats-27aj2zhos-zyrexs-projects-adc4981f.vercel.app" alt="GitHub Stats" />
 
-<img src="github-readme-stats-27aj2zhos-zyrexs-projects-adc4981f.vercel.app" alt="Top Languages" />
 
   <!--<img src="https://github-readme-stats.vercel.app/api?username=zyrex0315&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="130" alt="stats graph"  />-->
   
